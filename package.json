@@ -1,6 +1,6 @@
 {
   "name": "@scaff/vue-cli-scaff",
-  "version": "5.1.5",
+  "version": "5.1.8",
   "description": "A simple scaffold based on `vue-cli 3`",
   "main": "index.js",
   "scripts": {
@@ -11,13 +11,15 @@
     "url": "git+https://github.com/@scaff/vue-cli-staff.git"
   },
   "keywords": [
-    "cafee",
-    "uni"
+    "vue",
+    "vue-cli",
+    "vue-cli-scaff"
   ],
   "author": "joenix",
   "license": "MIT",
   "dependencies": {
     "@scaff/vue-cli-engineering": "^5.1.5",
+    "@scaff/vue-cli-sheet": "^5.1.8",
     "promise-super": "^1.1.8",
     "ressive": "^2.1.2",
     "vue": "^2.6.11",
