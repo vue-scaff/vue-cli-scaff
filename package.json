@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/@scaff/vue-cli-staff.git"
+    "url": "git+https://github.com/vue-scaff/vue-cli-scaff.git"
   },
   "keywords": [
     "vue",
