@@ -1,5 +1,5 @@
 /* !!
- * @cafee/staff
+ * @vue-scaff/vue-cli-scaff
  * ===== ===== ===== ===== =====
  * @Author: Joenix
  * @Mail: joenix.com@gmail.com
