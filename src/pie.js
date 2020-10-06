@@ -69,11 +69,8 @@ export default class Pie
 
 			( v, Hook = () => {} ) => {
 
-				// Compile
-				Scope.Engineering.Compile( v );
-
-				// Endless
-				return Hook( v );
+				// Compiler Endless
+				return Hook( v, Scope.Engineering.Compile( v ) );
 			}
 
 		)

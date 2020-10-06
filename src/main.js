@@ -32,11 +32,7 @@ const Root = `.${process.cwd()}`;
 // Module Export
 export default class Scaff
 {
-	constructor (
-
-		Configure
-
-	)
+	constructor ( Configure )
 
 	{
 		return new Pie(
